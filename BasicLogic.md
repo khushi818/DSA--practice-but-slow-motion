@@ -9,9 +9,9 @@ Tick items as you complete and revise them.
 
 ## 🔢 Number-Based Coding Questions
 
-- [ ] Fibonacci series (n terms)
-- [ ] Fibonacci – nth term
-- [ ] Check if a number is Fibonacci
+- [X] Fibonacci series (n terms)
+- [x] Fibonacci – nth term
+- [x] Check if a number is Fibonacci
 - [ ] Factorial (iterative)
 - [ ] Factorial (recursive)
 - [ ] GCD / HCF of two numbers

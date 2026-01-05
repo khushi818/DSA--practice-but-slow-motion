@@ -51,7 +51,7 @@ const recursiveResult = recursiveFibbonacci(7)
 console.log(recursiveResult)
 
 
-// remove time complexity 
+// remove space  complexity  to 0(1)
 
 function printFibbonacci(n) {
     let a = 0 , b = 1
@@ -65,3 +65,21 @@ function printFibbonacci(n) {
 }
 
 printFibbonacci(7)
+
+
+// Check if the number is fibbonacci 
+// formula is 5n exp(2) + 4 or -4  is a perfect square or not 
+// can even use iterative method like above 
+
+
+function isPerfectSquare(n) {
+    const s = Math.floor(Math.sqrt(n))
+    return s *s  == n 
+}
+function checkFibbo(n) {
+     if( n < 0) return false 
+     return isPerfectSquare(5 * n *n + 4) || isPerfectSquare(5* n*n -4)
+}
+
+
+console.log(checkFibbo(1))
