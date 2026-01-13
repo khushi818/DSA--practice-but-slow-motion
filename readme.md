@@ -12,9 +12,9 @@ Tick items as you complete and revise them.
 - [X] Fibonacci series (n terms)
 - [x] Fibonacci – nth term
 - [x] Check if a number is Fibonacci
-- [ ] Factorial (iterative)
-- [ ] Factorial (recursive)
-- [ ] GCD / HCF of two numbers
+- [x] Factorial (iterative)
+- [x] Factorial (recursive)
+- [x] GCD / HCF of two numbers
 - [ ] LCM of two numbers
 - [ ] Prime number check
 - [ ] Print all primes in a range
