@@ -15,7 +15,7 @@ Tick items as you complete and revise them.
 - [x] Factorial (iterative)
 - [x] Factorial (recursive)
 - [x] GCD / HCF of two numbers
-- [ ] LCM of two numbers
+- [x] LCM of two numbers
 - [ ] Prime number check
 - [ ] Print all primes in a range
 - [ ] Count number of primes ≤ n
