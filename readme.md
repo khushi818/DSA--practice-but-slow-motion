@@ -59,11 +59,11 @@ Tick items as you complete and revise them.
 
 ## 📦 Array-Based Questions
 
-- [ ] Reverse an array
-- [ ] Rotate array (left)
-- [ ] Rotate array (right)
-- [ ] Find largest element
-- [ ] Find smallest element
+- [x] Reverse an array
+- [x] Rotate array (left)
+- [x] Rotate array (right)
+- [x] Find largest element
+- [x] Find smallest element
 - [ ] Remove duplicates
 - [ ] Count frequency of elements
 - [ ] Find duplicate elements
