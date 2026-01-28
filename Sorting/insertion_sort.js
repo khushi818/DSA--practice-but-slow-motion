@@ -39,3 +39,11 @@ for(let i = 0 ;  i <= arr.length ; i++) {
 for(let a of arr){
     console.log(a)
 }
+
+// Worst Case
+
+// Time Complexity: O(n²)
+
+// When: The array is sorted in reverse order.
+
+// Why: Every element must be compared and shifted across the entire sorted portion.
