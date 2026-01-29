@@ -3,8 +3,6 @@
 Use this checklist to **track your progress** while preparing for coding interviews.  
 Tick items as you complete and revise them. 
 
-15 days Work
-
 ---
 
 ## 🔢 Number-Based Coding Questions
