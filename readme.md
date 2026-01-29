@@ -131,6 +131,7 @@ Tick items as you complete and revise them.
 - [x] Insertion Sort  
 - [x] Bubble Sort  
 - [x] Selection Sort  
+- [x] Merge Sort
 
 ## 📝 Revision Notes
 
