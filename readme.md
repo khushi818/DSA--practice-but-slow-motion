@@ -145,9 +145,9 @@ Tick items as you complete and revise them.
 Collection of problems to crack SDE interviews.
 
 ## Arrays (14)
-- [] Two Sum — https://leetcode.com/problems/two-sum/
-- [] Best Time to Buy and Sell Stock — https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- [] Maximum Subarray — https://leetcode.com/problems/maximum-subarray/
+- [x] Two Sum — https://leetcode.com/problems/two-sum/
+- [x] Best Time to Buy and Sell Stock — https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- [x] Maximum Subarray — https://leetcode.com/problems/maximum-subarray/
 - [] Product of Array Except Self — https://leetcode.com/problems/product-of-array-except-self/
 - [] Rotate Array — https://leetcode.com/problems/rotate-array/
 - [] Majority Element — https://leetcode.com/problems/majority-element/
@@ -162,7 +162,7 @@ Collection of problems to crack SDE interviews.
 
 ## Two Pointers (6)
 - [] 3Sum — https://leetcode.com/problems/3sum/
-- [] Remove Duplicates from Sorted Array — https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- [x] Remove Duplicates from Sorted Array — https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - [] Move Zeroes — https://leetcode.com/problems/move-zeroes/
 - [] Valid Palindrome — https://leetcode.com/problems/valid-palindrome/
 - [] Reverse String — https://leetcode.com/problems/reverse-string/
@@ -276,3 +276,5 @@ Collection of problems to crack SDE interviews.
 
 ## Miscellaneous (1)
 - [] Debounce — https://leetcode.com/problems/debounce/
+
+https://www.linkjob.ai/interview-questions/ibm-hackerrank-test/
