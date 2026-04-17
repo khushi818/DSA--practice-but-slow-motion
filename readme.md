@@ -148,10 +148,10 @@ Collection of problems to crack SDE interviews.
 - [x] Two Sum — https://leetcode.com/problems/two-sum/
 - [x] Best Time to Buy and Sell Stock — https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [x] Maximum Subarray — https://leetcode.com/problems/maximum-subarray/
-- [] Product of Array Except Self — https://leetcode.com/problems/product-of-array-except-self/
-- [] Rotate Array — https://leetcode.com/problems/rotate-array/
-- [] Majority Element — https://leetcode.com/problems/majority-element/
-- [] Missing Number — https://leetcode.com/problems/missing-number/
+- [x] Product of Array Except Self — https://leetcode.com/problems/product-of-array-except-self/
+- [x] Rotate Array — https://leetcode.com/problems/rotate-array/
+- [x] Majority Element — https://leetcode.com/problems/majority-element/
+- [x] Missing Number — https://leetcode.com/problems/missing-number/
 - [] Merge Intervals — https://leetcode.com/problems/merge-intervals/
 - [] Insert Interval — https://leetcode.com/problems/insert-interval/
 - [] Sort Colors — https://leetcode.com/problems/sort-colors/
